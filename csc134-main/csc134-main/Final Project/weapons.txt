@@ -1,0 +1,2 @@
+Fist 1 0 fist
+Stick 1 0 sword
